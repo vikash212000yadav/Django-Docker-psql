@@ -5,6 +5,5 @@ Simple dockerized django application with postgresql db.
 
 
 # Start project in local
-
-	- ```$docker-compose build```
-	- ```$docker-compose up```
+- `$docker-compose build`
+- `$docker-compose up`
