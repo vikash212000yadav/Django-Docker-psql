@@ -1,6 +1,6 @@
-# Django and Postgresql (pgadmin also) with Docker
+# Django and Postgresql with Docker
 
-Simple dockerized django application with postgresql db.
+Simple dockerized Django application with PostgreSQL DB.
 
 
 
